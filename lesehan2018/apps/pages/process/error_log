@@ -1,0 +1,86 @@
+[26-Apr-2018 06:08:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/get_survey.php on line 26
+[26-Apr-2018 07:05:05 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/api.php on line 16
+[26-Apr-2018 07:05:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/api.php on line 16
+[26-Apr-2018 07:05:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/api.php on line 16
+[26-Apr-2018 07:06:37 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/api.php on line 16
+[29-Apr-2018 11:39:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/cek_jawaban_quiz.php on line 15
+[29-Apr-2018 11:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/cek_jawaban_quiz.php on line 15
+[29-Apr-2018 11:40:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/cek_jawaban_quiz.php on line 15
+[29-Apr-2018 11:41:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/cek_jawaban_quiz.php on line 15
+[29-Apr-2018 11:41:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/cek_jawaban_quiz.php on line 13
+[30-Apr-2018 02:59:02 UTC] PHP Parse error:  syntax error, unexpected '$mobil' (T_VARIABLE), expecting ',' or ';' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 8
+[30-Apr-2018 03:00:22 UTC] PHP Parse error:  syntax error, unexpected '$mobil' (T_VARIABLE), expecting ',' or ';' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 8
+[30-Apr-2018 03:01:10 UTC] PHP Parse error:  syntax error, unexpected '$mobil' (T_VARIABLE), expecting ',' or ';' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 8
+[30-Apr-2018 03:03:46 UTC] PHP Parse error:  syntax error, unexpected '$mobil' (T_VARIABLE), expecting ',' or ';' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 8
+[30-Apr-2018 03:33:44 UTC] PHP Parse error:  syntax error, unexpected '$connect' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 4
+[30-Apr-2018 03:34:20 UTC] PHP Parse error:  syntax error, unexpected '$connect' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 4
+[30-Apr-2018 03:34:32 UTC] PHP Parse error:  syntax error, unexpected '$connect' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 4
+[30-Apr-2018 03:35:27 UTC] PHP Parse error:  syntax error, unexpected 'IdLokasi' (T_STRING) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 6
+[30-Apr-2018 07:50:09 UTC] PHP Fatal error:  Call to undefined function file_already_uploaded() in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 14
+[30-Apr-2018 07:51:21 UTC] PHP Fatal error:  Call to undefined function file_already_uploaded() in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 14
+[30-Apr-2018 07:53:06 UTC] PHP Fatal error:  Call to undefined function file_already_uploaded() in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 14
+[30-Apr-2018 07:55:22 UTC] PHP Fatal error:  Call to undefined function file_already_uploaded() in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 14
+[30-Apr-2018 07:57:06 UTC] PHP Fatal error:  Call to undefined function file_already_uploaded() in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 14
+[30-Apr-2018 07:57:24 UTC] PHP Fatal error:  Call to undefined function file_already_uploaded() in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 14
+[30-Apr-2018 07:58:20 UTC] PHP Warning:  move_uploaded_file(pages/process/files/test123.jpg): failed to open stream: No such file or directory in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 20
+[30-Apr-2018 07:58:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdN3Nib' to 'pages/process/files/test123.jpg' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 20
+[30-Apr-2018 08:00:41 UTC] PHP Warning:  move_uploaded_file(../.../images_assets/test123.jpg): failed to open stream: No such file or directory in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 20
+[30-Apr-2018 08:00:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1fj6pn' to '../.../images_assets/test123.jpg' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 20
+[30-Apr-2018 08:02:12 UTC] PHP Warning:  move_uploaded_file(../.../images_assets/test123.jpg): failed to open stream: No such file or directory in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 20
+[30-Apr-2018 08:02:12 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplMmZZ5' to '../.../images_assets/test123.jpg' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 20
+[30-Apr-2018 08:28:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 3
+[30-Apr-2018 08:29:01 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 47
+[30-Apr-2018 08:29:30 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo.php on line 44
+[02-May-2018 11:00:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/raffle.php on line 17
+[02-May-2018 11:01:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/raffle.php on line 17
+[02-May-2018 11:01:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/raffle.php on line 17
+[02-May-2018 11:07:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/raffle.php on line 18
+[02-May-2018 11:13:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/raffle.php on line 25
+[02-May-2018 11:13:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/raffle.php on line 25
+[03-May-2018 07:24:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/upload_photo_voucher.php on line 32
+[16-May-2018 06:03:54 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 20
+[16-May-2018 06:04:00 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 20
+[16-May-2018 06:04:01 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 20
+[16-May-2018 06:04:01 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 20
+[16-May-2018 06:04:02 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 20
+[16-May-2018 06:04:24 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/traffic_api.php on line 20
+[25-May-2018 02:54:17 UTC] PHP Warning:  file_get_contents(https://eu5.chat-api.com/instance3312/message?token=vglsc4x8b19k23mn): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 30
+[25-May-2018 02:55:56 UTC] PHP Warning:  file_get_contents(https://eu5.chat-api.com/instance3312/message?token=vglsc4x8b19k23mn): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 30
+[25-May-2018 02:57:14 UTC] PHP Warning:  file_get_contents(https://eu5.chat-api.com/instance3312/message?token=vglsc4x8b19k23mn): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 30
+[25-May-2018 02:58:08 UTC] PHP Warning:  file_get_contents(https://eu5.chat-api.com/instance3312/message?token=vglsc4x8b19k23mn): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 29
+[25-May-2018 02:59:05 UTC] PHP Warning:  file_get_contents(https://eu5.chat-api.com/instance3312/message?token=vglsc4x8b19k23mn): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 29
+[25-May-2018 04:14:36 UTC] PHP Warning:  mysqli_fetch_array() expects at least 1 parameter, 0 given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/get_interval_traffic.php on line 14
+[25-May-2018 04:16:58 UTC] PHP Warning:  mysqli_fetch_array() expects at least 1 parameter, 0 given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/get_interval_traffic.php on line 14
+[25-May-2018 04:17:21 UTC] PHP Warning:  mysqli_fetch_array() expects at least 1 parameter, 0 given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/get_interval_traffic.php on line 14
+[25-May-2018 04:20:56 UTC] PHP Fatal error:  Cannot use [] for reading in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/get_interval_traffic.php on line 17
+[25-May-2018 04:37:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/show_traffic.php on line 13
+[28-May-2018 02:39:13 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[28-May-2018 02:39:22 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[28-May-2018 02:39:35 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[28-May-2018 02:40:50 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[05-Jun-2018 05:22:12 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/insert_report.php on line 13
+[26-Nov-2018 08:25:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/offline_flag.php on line 3
+[26-Nov-2018 08:25:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/offline_flag.php on line 9
+[19-Mar-2019 00:29:21 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/redeem_api.php on line 48
+[19-Mar-2019 03:15:06 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[19-Mar-2019 03:18:09 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[19-Mar-2019 03:23:55 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[19-Mar-2019 03:23:57 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/send_wa.php on line 32
+[19-Mar-2019 03:38:49 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/redeem_api.php on line 48
+[10-Apr-2019 02:54:43 UTC] PHP Warning:  file_get_contents(https://eu2.chat-api.com/instance3416/message?token=vz7p7nyzeayqnhn4): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/dapps/public_html/JOKER/pertamina/lesehan2018/apps/pages/process/redeem_api.php on line 48

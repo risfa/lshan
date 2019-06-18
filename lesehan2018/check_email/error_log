@@ -1,0 +1,1 @@
+[23-May-2018 03:10:11 UTC] PHP Warning:  fsockopen(): unable to connect to limadigit.com:587 (Connection timed out) in /home/dapps/public_html/JOKER/pertamina/lesehan2018/check_email/smtp_validateEmail.class.php on line 154

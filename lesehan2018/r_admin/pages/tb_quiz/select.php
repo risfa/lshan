@@ -1,0 +1,60 @@
+<?php  
+ $connect = mysqli_connect("localhost", "dapps", "l1m4d1g1t", "dapps_joker_pertamina_lesehan2018");  
+ $output = '';  
+ $sql = "SELECT * FROM quiz_qst ORDER BY qst_id DESC";  
+ $result = mysqli_query($connect, $sql);  
+ $output .= '  
+      <div class="table-responsive">  
+           <table class="table table-bordered" style="
+    background: white;">  
+
+                <tr>  
+                     <th width="10%">Id</th>  
+                     <th width="40%">Soal</th>  
+                     <th width="40%">A</th>  
+                     <th width="40%">B</th>  
+                     <th width="40%">C</th>  
+                     <th width="40%">D</th>  
+                     <th width="40%">Jawaban Benar</th>  
+                     <th width="10%">Kategori</th>
+
+                     <th width="10%">Action</th>  
+
+                </tr>';  
+ if(mysqli_num_rows($result) > 0)  
+ {  
+      while($row = mysqli_fetch_array($result))  
+      {  
+           $output .= '  
+                <tr>  
+                     <td>'.$row["qst_id"].'</td>  
+                     <td class="qst_data" data-idqst="'.$row["qst_id"].'" contenteditable>'.$row["qst"].'</td> 
+
+                     <td class="opt1_data" data-idopt1="'.$row["qst_id"].'" contenteditable>'.$row["opt1"].'</td>
+
+                     <td class="opt2_data" data-idopt2="'.$row["qst_id"].'" contenteditable>'.$row["opt2"].'</td>
+
+                     <td class="opt3_data" data-idopt3="'.$row["qst_id"].'" contenteditable>'.$row["opt3"].'</td>
+
+                     <td class="opt4_data" data-idopt4="'.$row["qst_id"].'" contenteditable>'.$row["opt4"].'</td> 
+
+                      <td class="Jawaban_data" data-idjawaban="'.$row["qst_id"].'" contenteditable>'.$row["Jawaban"].'</td> 
+
+                     <td class="kategori_data" data-idkategori="'.$row["qst_id"].'" contenteditable>'.$row["kategori"].'</td> 
+
+                     <td><button type="button" name="delete_btn" data-id3="'.$row["qst_id"].'" class="btn btn-xs btn-danger btn_delete">DELETE</button></td>  
+                </tr>  
+           ';  
+      }  
+
+ }  
+ else  
+ {  
+      $output .= '<tr>  
+                          <td colspan="4">Data not Found</td>  
+                     </tr>';  
+ }  
+ $output .= '</table>  
+      </div>';  
+ echo $output;  
+ ?>
